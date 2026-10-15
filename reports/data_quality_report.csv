@@ -1,0 +1,24 @@
+Check,Failed_Rows,Total_Rows,Failure_Percent,Details,Status
+Duplicate rows,0,10000,0.0,Entire row should be unique.,PASS
+Duplicate Order_ID,0,10000,0.0,Each order should have a unique ID.,PASS
+Missing values: Order_ID,0,10000,0.0,Order_ID should not contain missing values.,PASS
+Missing values: Order_Date,0,10000,0.0,Order_Date should not contain missing values.,PASS
+Missing values: Customer_ID,0,10000,0.0,Customer_ID should not contain missing values.,PASS
+Missing values: Product,0,10000,0.0,Product should not contain missing values.,PASS
+Missing values: Category,0,10000,0.0,Category should not contain missing values.,PASS
+Missing values: Quantity,0,10000,0.0,Quantity should not contain missing values.,PASS
+Missing values: Unit_Price,0,10000,0.0,Unit_Price should not contain missing values.,PASS
+Missing values: Unit_Cost,0,10000,0.0,Unit_Cost should not contain missing values.,PASS
+Missing values: Discount_Rate,0,10000,0.0,Discount_Rate should not contain missing values.,PASS
+Missing values: Order_Status,0,10000,0.0,Order_Status should not contain missing values.,PASS
+Invalid order dates,0,10000,0.0,Order_Date must be a valid date.,PASS
+Non-positive quantity,0,10000,0.0,Quantity must be greater than zero.,PASS
+Non-positive unit price,0,10000,0.0,Unit_Price must be greater than zero.,PASS
+Negative unit cost,0,10000,0.0,Unit_Cost must not be negative.,PASS
+Invalid discount rate,0,10000,0.0,Discount_Rate must be between 0 and 1.,PASS
+Invalid order status,0,10000,0.0,Order status must be in the approved list.,PASS
+Incorrect gross revenue,0,10000,0.0,Gross_Revenue must equal quantity multiplied by unit price.,PASS
+Incorrect discount amount,0,10000,0.0,Discount_Amount must match gross revenue multiplied by discount rate.,PASS
+Incorrect net revenue,0,10000,0.0,Net_Revenue must equal gross revenue minus discount.,PASS
+Incorrect total cost,0,10000,0.0,Total_Cost must equal quantity multiplied by unit cost.,PASS
+Incorrect gross profit,0,10000,0.0,Gross_Profit must equal net revenue minus total cost.,PASS

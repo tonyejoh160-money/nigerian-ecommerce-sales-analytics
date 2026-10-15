@@ -1,0 +1,21 @@
+Metric,Value
+Total_Order_Records,10000
+Unique_Customers,1498
+Delivered_Orders,7168
+Customers_With_Delivered_Orders,1491
+Delivered_Units_Sold,21567
+Delivered_Net_Revenue_NGN,953161550.0
+Delivered_Product_Cost_NGN,748099300
+Delivered_Gross_Profit_NGN,205062250.0
+Gross_Profit_Margin_Percent,21.51
+Average_Order_Value_NGN,132974.55
+Repeat_Purchase_Rate_Percent,95.77
+Delivered_Order_Percent,71.68
+Cancelled_Order_Percent,6.87
+Returned_Order_Percent,2.96
+Top_Product,HP Laptop
+Top_Product_Net_Revenue_NGN,375667500.0
+Top_State,Imo
+Top_State_Net_Revenue_NGN,76819800.0
+Top_Category,Electronics
+Top_Category_Net_Revenue_NGN,529742000.0

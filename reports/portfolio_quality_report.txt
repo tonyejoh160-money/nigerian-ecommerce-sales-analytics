@@ -1,0 +1,39 @@
+NIGERIAN E-COMMERCE SALES ANALYTICS
+PORTFOLIO QUALITY REPORT
+=======================================================
+Generated: 2026-10-15 14:42:34 W. Central Africa Standard Time
+
+1. REQUIRED FILES
+-------------------------------------------------------
+[PASS] README.md
+[PASS] requirements.txt
+[PASS] .gitignore
+[PASS] docs/data_dictionary.md
+[PASS] data/ecommerce_sales.csv
+[PASS] data/ecommerce_sales_clean.csv
+[PASS] data/customers.csv
+[PASS] src/run_pipeline.py
+[PASS] tests/test_data_quality.py
+[PASS] tests/test_financial_metrics.py
+
+2. AUTOMATED TESTS
+-------------------------------------------------------
+[PASS] Automated tests completed successfully.
+..................                                                       [100%]
+18 passed in 2.62s
+
+3. GIT REPOSITORY
+-------------------------------------------------------
+[PASS] Git repository detected.
+Repository root: C:/Users/USER/Desktop/nigerian-ecommerce-sales-analytics
+
+4. DATA DISCLAIMER
+-------------------------------------------------------
+The dataset is synthetic and intended for educational and portfolio purposes.
+Its results must not be presented as verified Nigerian e-commerce market statistics.
+
+5. OVERALL CHECK
+-------------------------------------------------------
+PASS: File, test, and Git checks completed successfully.
+
+This report checks selected project requirements. It does not certify analytical correctness, accounting accuracy, or real-world representativeness.

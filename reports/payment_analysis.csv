@@ -1,0 +1,6 @@
+Payment_Method,Total_Orders,Unique_Customers,Delivered_Orders,Net_Revenue,Gross_Profit,Order_Share_Percent
+Bank Transfer,4025,1403,2834,388092425.0,82536625.0,40.25
+Card,2591,1238,1885,246541575.0,52728375.0,25.91
+Cash on Delivery,1737,1029,1246,170298625.0,36362025.0,17.37
+USSD,1215,845,890,111958475.0,25359475.0,12.15
+Mobile Money,432,389,313,36270450.0,8075750.0,4.32

@@ -1,0 +1,51 @@
+
+===========================================================
+NIGERIAN E-COMMERCE SALES ANALYTICS
+EXECUTIVE SUMMARY
+===========================================================
+
+DATASET OVERVIEW
+----------------
+Total order records: 10,000
+Unique customers: 1,498
+Customers with delivered orders: 1,491
+Total delivered units sold: 21,567
+
+DELIVERED SALES PERFORMANCE
+---------------------------
+Delivered orders: 7,168
+Delivered net revenue: NGN 953,161,550.00
+Delivered product cost: NGN 748,099,300.00
+Delivered gross profit: NGN 205,062,250.00
+Gross profit margin: 21.51%
+Average net revenue per delivered order: NGN 132,974.55
+
+TOP PERFORMERS
+--------------
+Top state by delivered net revenue:
+Imo — NGN 76,819,800.00
+
+Top product by delivered net revenue:
+HP Laptop — NGN 375,667,500.00
+
+Top category by delivered net revenue:
+Electronics — NGN 529,742,000.00
+
+ORDER STATUS
+------------
+Delivered: 7,168 (71.68%)
+Cancelled: 687 (6.87%)
+Returned: 296 (2.96%)
+
+METHODOLOGY AND LIMITATIONS
+---------------------------
+1. The dataset is synthetically generated for educational purposes.
+2. Sales metrics in this report use delivered orders only.
+3. Gross profit is net revenue minus recorded product cost.
+4. Profit margin is gross profit divided by net revenue.
+5. The dataset does not establish actual Nigerian market performance.
+6. The results are not a substitute for audited financial statements.
+
+===========================================================
+END OF REPORT
+===========================================================

@@ -1,0 +1,6 @@
+Order_Status,Total_Orders,Net_Revenue_Recorded,Percentage
+Delivered,7168,953161550.0,71.68
+Shipped,1005,138264725.0,10.05
+Processing,844,113378800.0,8.44
+Cancelled,687,85001950.0,6.87
+Returned,296,41121950.0,2.96
